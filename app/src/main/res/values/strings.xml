@@ -1,0 +1,19 @@
+<resources>
+    <string name="action_settings">Opções</string>
+    <string name="alterarNome">Alterar nome</string>
+    <string name="testarBluetooth">Teste</string>
+    <string name="btConectar">Conectar protótipo</string>
+    <string name="btLog">Falhas</string>
+    <string name="txtChassi">Chassi:</string>
+    <string name="txtNEcu">Número ECU:</string>
+    <string name="txtInfo3">Informação 3:</string>
+    <string name="txtInfo4">Informação 4:</string>
+    <string name="btSobre">Sobre o aplicativo</string>
+    <string name="btSair">Sair</string>
+    <string name="btInf">Informações:</string>
+    <string name="btInfo">Informações</string>
+    <string name="btParametro">Parâmetros</string>
+    <string name="icon_back">Voltar</string>
+    <string name="title_activity_configuracoes">Configurações</string>
+
+</resources>
